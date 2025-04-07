@@ -21,6 +21,9 @@ Makes the data available for analysis or visualization using tools like DBeaver.
 
 Tool/Tech	Purpose
 Apache Airflow	Orchestrates the ETL tasks as DAGs (Directed Acyclic Graphs). Modular, scalable, and production-ready.
+
 Docker	Containers for Airflow and PostgreSQL ensure isolated, reproducible environments.
+
 PostgreSQL	Stores the final cleaned sales data for further analysis.
+
 Pandas	Data manipulation during the transformation steps.
